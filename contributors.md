@@ -1,5 +1,5 @@
 Xavi Merino
 Marti Quera
-Julen Boshc
+Julen Bosch
 
 nou canvi
